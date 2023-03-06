@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5a3e942e14f08ea45810c1da91f29aba
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kiwi Maru
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20fde78521c521c4da0e40e0b1063146, type: 3}
+  - {fileID: 12800000, guid: d7f66c81f1f039546a6c9d93b48d4f81, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
